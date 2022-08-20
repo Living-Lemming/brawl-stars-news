@@ -7,7 +7,7 @@ DONT change any of the html or css or js names or the news wont work
 * Currently seems to support all BS versions on Android and iOS!
 
 # Setup
-NOTE: Do not try to do this without html knowlegde, if you need any help contact LivingLemming#on discord
+NOTE: Do not try to do this without html knowlegde, if you need any help contact LivingLemming on discord
 ### Making The Website
 Well we first have to start by making a website for the news to be hosted
 
