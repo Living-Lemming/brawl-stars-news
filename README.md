@@ -41,6 +41,7 @@ Well we first have to start by making a website for the news to be hosted
 
 1. Go to locales.csv
 on iOS this path is: [name].ipa/[name].app/res/csv_logic/locales.csv
+
 on Android this path is: [name].apk/assets/csv_logic/locales.csv
 
 2. Find the row EN (or a different language if your server prefers a different one)
