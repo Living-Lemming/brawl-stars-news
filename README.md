@@ -4,7 +4,7 @@ Stole all the code from brawlstars.com using the inspect feature, then hooked ev
 ***
 DONT change any of the html or css or js names or the news wont work
 ## Support
-* Currently seems to support all BS versions on Android and iOS!
+* Everything.
 
 # Setup
 NOTE: Do not try to do this without html knowlegde, if you need any help contact LivingLemming on discord
