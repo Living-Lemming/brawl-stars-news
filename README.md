@@ -1,4 +1,4 @@
-# brawl-stars-news
+# brawl-stars-news (OBSOLETE, REPLIT DOESNT ALLOW YOU TO HAVE A STATIC DOMAIN WITHOUT PAYING, USE SOME OTHER DOMAIN HOSTING FREE THING IDK)
 A repository where you can create (with a bit of work) your own brawl stars news site to go with your server!
 Stole all the code from brawlstars.com using the inspect feature, then hooked everything together
 ***
